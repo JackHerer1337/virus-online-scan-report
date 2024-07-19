@@ -1,7 +1,5 @@
 Segue uma lista de websites para investigação de arquivos suspeitos:
 
-[Login anônimo]
-
 Internxt (máx. 1GB)
 https://internxt.com/virus-scanner
 
