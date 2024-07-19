@@ -1,5 +1,4 @@
-=============FERRAMENTAS DE ANÁLISE DE ARQUIVOS=============
-Segue uma lista de websites para investigação de arquivos suspeitos:
+=============FERRAMENTAS DE ANÁLISE DE ARQUIVOS SUSPEITOS=============
 
 Internxt (máx. 1GB)
 https://internxt.com/virus-scanner
